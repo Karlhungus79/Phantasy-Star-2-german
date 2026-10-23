@@ -1,0 +1,15 @@
+# ROMs und Speicherstände nie hochladen
+*.bin
+*.gen
+*.md.bin
+*.smd
+*.sms
+*.iso
+*.state
+*.st0
+*.st1
+*.sav
+*.srm
+01_Original_ROM/
+07_Output_ROM/
+08_Savestates/
