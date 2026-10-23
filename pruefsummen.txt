@@ -1,0 +1,4 @@
+Original (benoetigt): CRC32 904FA047  SHA-1 0711080e968490a6b8c5fafbb9db3e62ba597231  MD5 0fa38b12cf0ab0163d865600ac731a9a  Groesse 786432
+Ergebnis (gepatcht):  CRC32 8E7E380F  SHA-1 05af716d3204950c9ef97bd5b20eb8f2f46d4915  MD5 ee3197898a87461383c7971a01050889  Groesse 1048576
+Phantasy_Star_II_Deutsch.ips: 764434 Bytes
+Phantasy_Star_II_Deutsch.bps: 62562 Bytes
